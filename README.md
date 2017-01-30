@@ -8,7 +8,7 @@ A master checklist to secure your online life.
 * [ ] Set up login notifications on apps/services that allow it
 * [ ] Use a password manager like 1Password or LastPass. Change the master password periodically.
 * [ ] Use different passwords for all of your accounts
-* [ ] Generate secure passwords [https://lastpass.com/generate](generate strong passwords using https://lastpass.com/generate)
+* [ ] Generate secure passwords [LastPass Generate](generate strong passwords using https://lastpass.com/generate)
 * [ ] Use [Have I Been Pwned](https://haveibeenpwned.com) to see if any of your accounts have been compromised
 * [ ] Update login information (or entirely delete the account) for compromised accounts
 * [ ] Delete your all of your unused and unnecessary accounts
@@ -17,6 +17,7 @@ A master checklist to secure your online life.
 
 ###Secure Browsing
 * [ ] Use a browser plugin like uBlock, privacy badger, and ghostery to prevent third parties from tracking you
+* [ ] Switch away from Google Chrome and Microsoft Edge and use [Firefox](www.firefox.com) or [Brave](www.brave.com) instead
 * [ ] Pay attention to when a website is using https, and never type a password into a site that doesn't use https
 * [ ] Set cookies, history, etc to delete after 30 days (or less!)
 
