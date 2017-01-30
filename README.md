@@ -56,8 +56,9 @@ A master checklist to secure your online life.
 
 ###Secure Browsing
 * [ ] Use tor for web browsing, the more people use it the better the network is
+* [ ] Use Firefox Focus on iOS
 * [ ] Don't use unsecured wifi networks without a VPN
-* [ ] Install a VPN client on your computer (VyprVPN is a good one).
+* [ ] Install a VPN client on your computer (VyprVPN is a good one)
 
 ###Secure Communication
 * [ ] Use encrypted communication methods - Signal, etc.
