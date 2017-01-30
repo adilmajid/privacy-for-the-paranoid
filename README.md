@@ -16,9 +16,9 @@ A master checklist to secure your online life.
 
 
 ###Secure Browsing
-* [ ] Use a browser plugin like uBlock, privacy badger, and ghostery to prevent third parties from tracking you
-* [ ] Switch away from Google Chrome and Microsoft Edge and use [Firefox](www.firefox.com) or [Brave](www.brave.com) instead
 * [ ] Pay attention to when a website is using https, and never type a password into a site that doesn't use https
+* [ ] Use a browser plugin like [uBlock Origin](https://github.com/gorhill/uBlock), privacy badger, and ghostery to prevent third parties from tracking you
+* [ ] Switch away from Google Chrome and Microsoft Edge and use [Firefox](www.firefox.com) or [Brave](www.brave.com) instead
 * [ ] Set cookies, history, etc to delete after 30 days (or less!)
 
 
