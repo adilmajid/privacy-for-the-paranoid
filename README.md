@@ -44,7 +44,7 @@ A master checklist to secure your online life.
 
 
 ###Other
-* [ ] Secure your Skype account if you need/use it. Delete it if you don't. (I've never seen any kind of account get hacked as many times as my friends' Skype accounts. Everyday there's some baidu link coming my way. Could just be my social circle though)
+* [ ] Secure your Skype account if you need it. Delete it if you don't. (Good alternative is Google Duo, which saves some metadata but has encrypted calls.)
 * [ ] Delete your Yahoo account. If you need it for Flickr, set a long password, set up 2FA, and enable login notifications
 * [ ] Set strict privacy options on Facebook (see below)
 * [ ] Set strict privacy options on Google (see below)
