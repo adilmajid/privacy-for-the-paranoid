@@ -38,7 +38,7 @@ An Administrator’s Guide to Internet Password Research [Article](https://www.u
 ## Other
 NeimanLab: How easy is it to leak to news organizations? This easy [Article](http://www.niemanlab.org/2017/01/how-easy-is-it-to-securely-leak-information-to-some-of-americas-top-news-organizations-this-easy/) | [HN Discussion](https://news.ycombinator.com/item?id=13500425)
 
-The FBI's Secret Rules (Article Series)[https://theintercept.com/series/the-fbis-secret-rules/]
+The FBI's Secret Rules [Article Series](https://theintercept.com/series/the-fbis-secret-rules/)
 
 On the Spam Payment Trail [Article](https://cseweb.ucsd.edu/~savage/papers/LoginInterview11.pdf)
 
