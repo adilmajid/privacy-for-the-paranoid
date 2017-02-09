@@ -16,7 +16,7 @@
 * Twitter
 
 
-##The following apps and service don't support Two Factor authentication
+##The following apps and service DON'T support Two Factor authentication
 * Citibank
 * Chase Bank
 * Mint.com
