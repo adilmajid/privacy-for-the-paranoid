@@ -21,6 +21,8 @@ Upgrading HTTPS in Mid-Air: An Empirical Study of Strict Transport Security and 
 
 Maintaining digital certificate security [Article](https://security.googleblog.com/2015/03/maintaining-digital-certificate-security.html)
 
+The Security Impact of HTTPS Interception [Article](https://zakird.com/papers/https_interception.pdf)
+
 ### Browsers
 Third-Party Web Tracking: Policy and Technology [Article](https://cyberlaw.stanford.edu/files/publication/files/trackingsurvey12.pdf)
 
