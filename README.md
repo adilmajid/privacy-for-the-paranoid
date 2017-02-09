@@ -8,7 +8,7 @@ A master checklist to secure your online life.
 * [ ] Set up login notifications on apps/services that allow it
 * [ ] Use a password manager like 1Password or LastPass. Change the master password periodically.
 * [ ] Use different passwords for all of your accounts
-* [ ] Generate secure passwords [LastPass Generate](generate strong passwords using https://lastpass.com/generate)
+* [ ] Generate secure passwords [LastPass Generate](https://lastpass.com/generate)
 * [ ] Use [Have I Been Pwned](https://haveibeenpwned.com) to see if any of your accounts have been compromised
 * [ ] Update login information (or entirely delete the account) for compromised accounts
 * [ ] Delete your all of your unused and unnecessary accounts
@@ -55,10 +55,12 @@ A master checklist to secure your online life.
 ##Advanced
 
 ###Secure Browsing
-* [ ] Use tor for web browsing, the more people use it the better the network is
+* [ ] Use Tor for web browsing. The more people use it the better the network is
 * [ ] Use Firefox Focus on iOS
 * [ ] Don't use unsecured wifi networks without a VPN
 * [ ] Install a VPN client on your computer (VyprVPN is a good one)
+* [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall).
+* [ ] Install [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) to monitor when your webcam and microphone are turned on
 
 ###Secure Communication
 * [ ] Use encrypted communication methods - Signal, etc.
