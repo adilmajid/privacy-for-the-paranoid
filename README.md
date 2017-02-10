@@ -107,3 +107,4 @@ A master checklist to secure your online life.
 * [ ] Go through each of your Profile Pictures and set them to Friends or stricter. Profile Pictures are Public by default.
 * [ ] Go through each of your Cover Photos and set them to Friends or stricter. Your current Cover Photo will always be Public, but older ones can be restricted to Friends.
 * [ ] Go through old photos and clean up! If necessary, ask friends to take down ones you no longer want online.
+* [ ] Use [Dataselfie](http://dataselfie.it) to see how machine learning algorithms map your personality
