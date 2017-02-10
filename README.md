@@ -6,7 +6,7 @@ A master checklist to secure your online life.
 ###Secure Logins
 * [ ] Set up 2FA (two-factor authentication) on all of your accounts that support it.
 * [ ] Set up login notifications on apps/services that allow it
-* [ ] Use a password manager like 1Password or LastPass. Change the master password periodically.
+* [ ] Use a password manager like [1Password](https://1password.com) or [LastPass](https://www.lastpass.com). Change the master password periodically.
 * [ ] Use different passwords for all of your accounts
 * [ ] Generate secure passwords [LastPass Generate](https://lastpass.com/generate)
 * [ ] Use [Have I Been Pwned](https://haveibeenpwned.com) to see if any of your accounts have been compromised
@@ -23,7 +23,7 @@ A master checklist to secure your online life.
 
 
 ###Bank / Payments
-* [ ] Use Privacy.com when doing online transactions and enable transaction notifications
+* [ ] Use [Privacy.com](http://privacy.com) when doing online transactions and enable transaction notifications
 * [ ] Disable paper bank statement mailings
 
 
@@ -38,10 +38,10 @@ A master checklist to secure your online life.
 ###Your Computer
 * [ ] Cover your computer webcam with a Post-it
 * [ ] Install [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) to monitor when your webcam and microphone are turned on
-* [ ] Install Malwarebyte on your computer, and run it periodically
+* [ ] Install [Malwarebyte](http://malwarebytes.org) on your computer, and run it periodically
 * [ ] Turn on Firewall on your Mac
 * [ ] Set Mac lockscreen notifications to private
-* [ ] For the super-paranoid, not tied to Mac or Windows: use QUBES OS or Tails OS
+* [ ] For the super-paranoid, not tied to Mac or Windows: use [QUBES OS](https://www.qubes-os.org) or [Tails OS](https://tails.boum.org)
 
 
 ###Other
@@ -56,15 +56,15 @@ A master checklist to secure your online life.
 ##Advanced
 
 ###Secure Browsing
-* [ ] Use Tor for web browsing. The more people use it the better the network is
-* [ ] Use Firefox Focus on iOS
+* [ ] Use [Tor](https://www.torproject.org) for web browsing. The more people use it the better the network is
+* [ ] Use [Firefox Focus](https://itunes.apple.com/app/id1055677337) on iOS
 * [ ] Use [Panopticlick](https://panopticlick.eff.org) to test whether your browser setup is safe against tracking
 * [ ] Don't use unsecured wifi networks without a VPN
-* [ ] Install a VPN client on your computer (VyprVPN is a good one)
+* [ ] Install a VPN client on your computer ([VyprVPN](https://www.goldenfrog.com/vyprvpn) is a good one)
 * [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall).
 
 ###Secure Communication
-* [ ] Use encrypted communication methods - Signal, etc.
+* [ ] Use encrypted communication methods - [Signal](https://whispersystems.org), etc.
 * [ ] Make sure that any device or app you store sensitive info in is encrypted. (Evernote, Day One, etc - BTW, Day One isn't encrypted)
 
 ###Secure Your Offline Life
@@ -89,7 +89,7 @@ A master checklist to secure your online life.
 * [ ] Check Google+ for what data Google has made public, set anything you don't like to private
 
 ###Beast Mode
-* [ ] Switch to DuckDuckGo as your  main search engine. (You can set it as default for Safari, Chrome, Firefox, and iOS Safari now)
+* [ ] Switch to [DuckDuckGo](https://duckduckgo.com) as your  main search engine. (You can set it as default for Safari, Chrome, Firefox, and iOS Safari now)
 
 
 ##Facebook
