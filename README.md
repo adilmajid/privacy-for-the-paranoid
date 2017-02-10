@@ -65,7 +65,7 @@ A master checklist to secure your online life.
 
 ###Secure Communication
 * [ ] Use encrypted communication methods - [Signal](https://whispersystems.org), etc.
-* [ ] Make sure that any device or app you store sensitive info in is encrypted. (Evernote, Day One, etc - BTW, Day One isn't encrypted)
+* [ ] Make sure that any device or app you store sensitive info in is encrypted.  (Evernote, Day One, etc.)
 
 ###Secure Your Offline Life
 * [ ] Consolidate external hard drives and USB thumbdrives so you don't lose them
