@@ -10,6 +10,7 @@
 * Google
 * IFTTT
 * Instagram
+* LinkedIn
 * Privacy.com
 * Slack
 * Trello
