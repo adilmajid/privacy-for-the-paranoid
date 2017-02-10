@@ -37,6 +37,7 @@ A master checklist to secure your online life.
 
 ###Your Computer
 * [ ] Cover your computer webcam with a Post-it
+* [ ] Install [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) to monitor when your webcam and microphone are turned on
 * [ ] Install Malwarebyte on your computer, and run it periodically
 * [ ] Turn on Firewall on your Mac
 * [ ] Set Mac lockscreen notifications to private
@@ -57,10 +58,10 @@ A master checklist to secure your online life.
 ###Secure Browsing
 * [ ] Use Tor for web browsing. The more people use it the better the network is
 * [ ] Use Firefox Focus on iOS
+* [ ] Use [Panopticlick](https://panopticlick.eff.org) to test whether your browser setup is safe against tracking
 * [ ] Don't use unsecured wifi networks without a VPN
 * [ ] Install a VPN client on your computer (VyprVPN is a good one)
 * [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall).
-* [ ] Install [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) to monitor when your webcam and microphone are turned on
 
 ###Secure Communication
 * [ ] Use encrypted communication methods - Signal, etc.
