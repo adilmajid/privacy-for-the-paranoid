@@ -9,7 +9,6 @@ A master checklist to secure your online life.
   - [Your Phone](#phones)
   - [Your Computer](#computers)
 - [Advanced](#advanced)
-  - [Browsers](#browsers)
 - [Google](#google)
 - [Facebook](#facebook)
 
@@ -69,7 +68,7 @@ A master checklist to secure your online life.
 
 ##Advanced
 
-###Browsers
+###Secure Browsing
 * [ ] Use [Tor](https://www.torproject.org) for web browsing. The more people use it the better the network is
 * [ ] Use [Firefox Focus](https://itunes.apple.com/app/id1055677337) on iOS
 * [ ] Use [Panopticlick](https://panopticlick.eff.org) to test whether your browser setup is safe against tracking
