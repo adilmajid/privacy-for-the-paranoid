@@ -1,9 +1,22 @@
 # Online Security and Privacy for the Paranoid
 A master checklist to secure your online life.
 
+### Table of Contents
+- [Beginner](#beginner)
+  - [Logins](#logins)
+  - [Browsing](#browsers)
+  - [Banking](#banking)
+  - [Your Phone](#phones)
+  - [Your Computer](#computers)
+- [Advanced](#advanced)
+- [Google](#google)
+- [Facebook](#facebook)
+
+<hr>
+
 ##Beginner
 
-###Secure Logins
+###Logins
 * [ ] Set up 2FA (two-factor authentication) on all of your accounts that support it.
 * [ ] Set up login notifications on apps/services that allow it
 * [ ] Use a password manager like [1Password](https://1password.com) or [LastPass](https://www.lastpass.com). Change the master password periodically.
@@ -15,19 +28,19 @@ A master checklist to secure your online life.
 * [ ] On services that allow it, check for active sessions, and delete any unused, forgotten, or unapproved sessions
 
 
-###Secure Browsing
+###Browsers
 * [ ] Pay attention to when a website is using https, and never type a password into a site that doesn't use https
 * [ ] Use a browser plugin like [uBlock Origin](https://github.com/gorhill/uBlock), privacy badger, and ghostery to prevent third parties from tracking you
 * [ ] Switch away from Google Chrome and Microsoft Edge and use [Firefox](www.firefox.com) or [Brave](www.brave.com) instead
 * [ ] Set cookies, history, etc to delete after 30 days (or less!)
 
 
-###Bank / Payments
+###Banking
 * [ ] Use [Privacy.com](http://privacy.com) when doing online transactions and enable transaction notifications
 * [ ] Disable paper bank statement mailings
 
 
-###Your Phone
+###Phones
 * [ ] Disable TouchID / fingerprint unlock
 * [ ] Set a passcode / password of 6+ characters
 * [ ] Disable what someone can see/do with your phone if they don't have the password (lock screen widgets, notification privacy, Apple/Android/Samsung Pay)
@@ -35,7 +48,7 @@ A master checklist to secure your online life.
 * [ ] Get rid of your Android and get an iPhone (not intentionally pretentious, && there are great iPhones at basically any price point these days)
 
 
-###Your Computer
+###Computers
 * [ ] Cover your computer webcam with a Post-it
 * [ ] Install [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) to monitor when your webcam and microphone are turned on
 * [ ] Install [Malwarebyte](http://malwarebytes.org) on your computer, and run it periodically
