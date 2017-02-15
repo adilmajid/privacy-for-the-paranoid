@@ -41,6 +41,7 @@ A master checklist to secure your online life.
 
 
 ###Phones
+* [ ] Keep your OS and apps updated
 * [ ] Disable TouchID / fingerprint unlock
 * [ ] Set a passcode / password of 6+ characters
 * [ ] Disable what someone can see/do with your phone if they don't have the password (lock screen widgets, notification privacy, Apple/Android/Samsung Pay)
@@ -49,6 +50,7 @@ A master checklist to secure your online life.
 
 
 ###Computers
+* [ ] Keep your OS and apps updated
 * [ ] Cover your computer webcam with a Post-it
 * [ ] Install [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) to monitor when your webcam and microphone are turned on
 * [ ] Install [Malwarebyte](http://malwarebytes.org) on your computer, and run it periodically
