@@ -3,7 +3,7 @@
 ### Table of Contents
 - [Security](#security)
   - [HTTPS](#https)
-  - [browsers](#browsers)
+  - [Browsers](#browsers)
 - [Privacy](#privacy)
   - [Encryption](#encryption)
   - [Passwords](#passwords)
