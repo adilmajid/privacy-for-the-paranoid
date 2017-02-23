@@ -15,6 +15,8 @@
 * Reflections on Trusting Trust - Ken Thompson [Article](http://cm.bell-labs.co/who/ken/trust.html)
 
 ### HTTPS
+* Moving to HTTPS Guide [Website](https://movingtohttps.com/)
+
 * The Most Dangerous Code in the World: Validating SSL Certificates in Non-Browser Software [Article](https://www.cs.utexas.edu/~shmat/shmat_ccs12.pdf)
 
 * Upgrading HTTPS in Mid-Air: An Empirical Study of Strict Transport Security and Key Pinning [Article](https://www.internetsociety.org/sites/default/files/Upgrading%20HTTPS%20in%20Mid-Air-%20An%20Empirical%20Study%20of%20Strict%20Transport%20Security%20and%20Key%20Pinning.pdf)
