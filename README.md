@@ -17,7 +17,7 @@ A master checklist to secure your online life.
 ##Beginner
 
 ###Logins
-* [ ] Set up 2FA (two-factor authentication) on all of your accounts that support it.
+* [ ] Set up 2FA (two-factor authentication) on all of your accounts that support it. ([twofactorauth.org](https://twofactorauth.org/) has a full list of apps that support 2FA.)
 * [ ] Set up login notifications on apps/services that allow it
 * [ ] Use a password manager like [1Password](https://1password.com) or [LastPass](https://www.lastpass.com). Change the master password periodically.
 * [ ] Use different passwords for all of your accounts
@@ -76,10 +76,11 @@ A master checklist to secure your online life.
 * [ ] Use [Panopticlick](https://panopticlick.eff.org) to test whether your browser setup is safe against tracking
 * [ ] Don't use unsecured wifi networks without a VPN
 * [ ] Install a VPN client on your computer ([VyprVPN](https://www.goldenfrog.com/vyprvpn) is a good one)
+* [ ] Install a VPN client on your phone ([Cloak for iOS](https://itunes.apple.com/app/cloak/id473835722) is a good one)
 * [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall).
 
 ###Secure Communication
-* [ ] Use encrypted communication methods - [Signal](https://whispersystems.org), etc.
+* [ ] Use encrypted communication methods - [Signal](https://whispersystems.org), [ProtonMail](https://protonmail.com/), etc.
 * [ ] Make sure that any device or app you store sensitive info in is encrypted.  (Evernote, Day One, etc.)
 
 ###Secure Your Offline Life
