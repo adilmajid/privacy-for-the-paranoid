@@ -40,6 +40,8 @@
 * An Administrator’s Guide to Internet Password Research [Article](https://www.usenix.org/system/files/conference/lisa14/lisa14-paper-florencio.pdf)
 
 ## Other
+* Washington Post: Erasing yourself from the Internet is nearly impossible. But here’s how you can try. [Article](https://www.washingtonpost.com/news/the-intersect/wp/2017/02/10/erasing-yourself-from-the-internet-is-nearly-impossible-but-heres-how-you-can-try/?utm_term=.22aa3a27ac4f)
+
 * NeimanLab: How easy is it to leak to news organizations? This easy [Article](http://www.niemanlab.org/2017/01/how-easy-is-it-to-securely-leak-information-to-some-of-americas-top-news-organizations-this-easy/) | [HN Discussion](https://news.ycombinator.com/item?id=13500425)
 
 * The FBI's Secret Rules [Article Series](https://theintercept.com/series/the-fbis-secret-rules/)
