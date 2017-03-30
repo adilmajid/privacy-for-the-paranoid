@@ -67,6 +67,7 @@ A master checklist to secure your online life.
 * [ ] Don't buy knockoff smart home appliances. This includes security cameras
 * [ ] Get rid of your Amazon Alexa and Google Home
 
+<hr>
 
 ## Advanced
 
@@ -88,6 +89,7 @@ A master checklist to secure your online life.
 * [ ] Consolidate notebooks and papers that could have sensitive info, shred the ones you don't need. Archive papers by scanning into (a secured) Evernote account if you don't need the physical copy.
 * [ ] Wipe unused old computers, phones, etc.
 
+<hr>
 
 ## Google
 
@@ -107,6 +109,7 @@ A master checklist to secure your online life.
 ### Beast Mode
 * [ ] Switch to [DuckDuckGo](https://duckduckgo.com) as your  main search engine. (You can set it as default for Safari, Chrome, Firefox, and iOS Safari now)
 
+<hr>
 
 ## Facebook
 
