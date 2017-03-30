@@ -31,6 +31,8 @@
 * Beware of Finer-Grained Origins [Article](http://seclab.stanford.edu/websec/origins/fgo.pdf)
 
 ## Privacy
+* Guide to Choosing the Best VPN For You (Reddit)[Post+Comments](https://www.reddit.com/r/privacytoolsIO/comments/4ihtdj/that_one_privacy_guys_guide_to_choosing_the_best/)
+
 * This World of Ours - James Mickens [Article](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
 
 ### Encryption
