@@ -14,9 +14,9 @@ A master checklist to secure your online life.
 
 <hr>
 
-##Beginner
+## Beginner
 
-###Logins
+### Logins
 * [ ] Set up 2FA (two-factor authentication) on all of your accounts that support it. ([twofactorauth.org](https://twofactorauth.org/) has a full list of apps that support 2FA.)
 * [ ] Set up login notifications on apps/services that allow it
 * [ ] Use a password manager like [1Password](https://1password.com) or [LastPass](https://www.lastpass.com). Change the master password periodically.
@@ -28,19 +28,19 @@ A master checklist to secure your online life.
 * [ ] On services that allow it, check for active sessions, and delete any unused, forgotten, or unapproved sessions
 
 
-###Browsers
+### Browsers
 * [ ] Pay attention to when a website is using https, and never type a password into a site that doesn't use https
 * [ ] Use a browser plugin like [uBlock Origin](https://github.com/gorhill/uBlock), privacy badger, and ghostery to prevent third parties from tracking you
 * [ ] Switch away from Google Chrome and Microsoft Edge and use [Firefox](www.firefox.com) or [Brave](www.brave.com) instead
 * [ ] Set cookies, history, etc to delete after 30 days (or less!)
 
 
-###Banking
+### Banking
 * [ ] Use [Privacy.com](http://privacy.com) when doing online transactions and enable transaction notifications
 * [ ] Disable paper bank statement mailings
 
 
-###Phones
+### Phones
 * [ ] Keep your OS and apps updated
 * [ ] Disable TouchID / fingerprint unlock
 * [ ] Set a passcode / password of 6+ characters
@@ -49,7 +49,7 @@ A master checklist to secure your online life.
 * [ ] Get rid of your Android and get an iPhone (not intentionally pretentious, && there are great iPhones at basically any price point these days)
 
 
-###Computers
+### Computers
 * [ ] Keep your OS and apps updated
 * [ ] Cover your computer webcam with a Post-it
 * [ ] Install [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) to monitor when your webcam and microphone are turned on
@@ -59,7 +59,7 @@ A master checklist to secure your online life.
 * [ ] For the super-paranoid, not tied to Mac or Windows: use [QUBES OS](https://www.qubes-os.org) or [Tails OS](https://tails.boum.org)
 
 
-###Other
+### Other
 * [ ] Secure your Skype account if you need it. Delete it if you don't. (Good alternative is Google Duo, which saves some metadata but has encrypted calls.)
 * [ ] Delete your Yahoo account. If you need it for Flickr, set a long password, set up 2FA, and enable login notifications
 * [ ] Set strict privacy options on Facebook (see below)
@@ -68,9 +68,9 @@ A master checklist to secure your online life.
 * [ ] Get rid of your Amazon Alexa and Google Home
 
 
-##Advanced
+## Advanced
 
-###Secure Browsing
+### Secure Browsing
 * [ ] Use [Tor](https://www.torproject.org) for web browsing. The more people use it the better the network is
 * [ ] Use [Firefox Focus](https://itunes.apple.com/app/id1055677337) on iOS
 * [ ] Use [Panopticlick](https://panopticlick.eff.org) to test whether your browser setup is safe against tracking
@@ -79,44 +79,44 @@ A master checklist to secure your online life.
 * [ ] Install a VPN client on your phone ([Cloak for iOS](https://itunes.apple.com/app/cloak/id473835722) is a good one)
 * [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall).
 
-###Secure Communication
+### Secure Communication
 * [ ] Use encrypted communication methods - [Signal](https://whispersystems.org), [ProtonMail](https://protonmail.com/), etc.
 * [ ] Make sure that any device or app you store sensitive info in is encrypted.  (Evernote, Day One, etc.)
 
-###Secure Your Offline Life
+### Secure Your Offline Life
 * [ ] Consolidate external hard drives and USB thumbdrives so you don't lose them
 * [ ] Consolidate notebooks and papers that could have sensitive info, shred the ones you don't need. Archive papers by scanning into (a secured) Evernote account if you don't need the physical copy.
 * [ ] Wipe unused old computers, phones, etc.
 
 
-##Google
+## Google
 
-###Secure Login
+### Secure Login
 * [ ] Set up 2FA
 * [ ] Set up login notifications
 * [ ] Review your active sessions and end sessions you don't recognize
 * [ ] Review what apps have access to your data via Google login
 
-###Reclaim Your Data
+### Reclaim Your Data
 * [ ] Clear search history
 * [ ] Disable search history
 * [ ] Clear location history
 * [ ] Disable maps and location history
 * [ ] Check Google+ for what data Google has made public, set anything you don't like to private
 
-###Beast Mode
+### Beast Mode
 * [ ] Switch to [DuckDuckGo](https://duckduckgo.com) as your  main search engine. (You can set it as default for Safari, Chrome, Firefox, and iOS Safari now)
 
 
-##Facebook
+## Facebook
 
-###Secure Login
+### Secure Login
 * [ ] Set up 2FA
 * [ ] Set up login notifications
 * [ ] Review your active sessions and end sessions you don't recognize
 * [ ] Review what apps have access to your data via Facebook login
 
-###Reclaim Your Data
+### Reclaim Your Data
 * [ ] Set up "Approve Posts on Your Timeline". This allows you to approve posts on your Timeline and photos/statuses you're tagged in.
 * [ ] Remove excess info on your profile. Go through your "About" section — most of these are set to public or Friends. Limit them as you see fit, and remove excess info.
 * [ ] Limit past posts to "Friends", make sure these aren't public
