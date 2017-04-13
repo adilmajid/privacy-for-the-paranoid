@@ -12,6 +12,8 @@
 <hr>
 
 ## Security
+* How to Protect Privacy On Mac - DuckDuckGo Blog [Article](https://spreadprivacy.com/mac-privacy-tips-13395592a9b4)
+
 * Reflections on Trusting Trust - Ken Thompson [Article](http://cm.bell-labs.co/who/ken/trust.html)
 
 ### HTTPS
