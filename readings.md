@@ -11,9 +11,23 @@
 
 <hr>
 
-## Security
+## Privacy
+* Why Privacy Matters - TED Talk by Glenn Greenwald [Watch Video](https://www.ted.com/talks/glenn_greenwald_why_privacy_matters)
+
 * How to Protect Privacy On Mac - DuckDuckGo Blog [Article](https://spreadprivacy.com/mac-privacy-tips-13395592a9b4)
 
+* Guide to Choosing the Best VPN For You (Reddit) [Post+Comments](https://www.reddit.com/r/privacytoolsIO/comments/4ihtdj/that_one_privacy_guys_guide_to_choosing_the_best/)
+
+* This World of Ours - James Mickens [Article](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
+
+### Encryption
+* Applied Cryptography [MOOC](https://www.udacity.com/course/applied-cryptography--cs387)
+
+### Passwords
+* An Administrator’s Guide to Internet Password Research [Article](https://www.usenix.org/system/files/conference/lisa14/lisa14-paper-florencio.pdf)
+
+
+## Security
 * Reflections on Trusting Trust - Ken Thompson [Article](http://cm.bell-labs.co/who/ken/trust.html)
 
 ### HTTPS
@@ -31,17 +45,6 @@
 * Third-Party Web Tracking: Policy and Technology [Article](https://cyberlaw.stanford.edu/files/publication/files/trackingsurvey12.pdf)
 
 * Beware of Finer-Grained Origins [Article](http://seclab.stanford.edu/websec/origins/fgo.pdf)
-
-## Privacy
-* Guide to Choosing the Best VPN For You (Reddit) [Post+Comments](https://www.reddit.com/r/privacytoolsIO/comments/4ihtdj/that_one_privacy_guys_guide_to_choosing_the_best/)
-
-* This World of Ours - James Mickens [Article](https://www.usenix.org/system/files/1401_08-12_mickens.pdf)
-
-### Encryption
-* Applied Cryptography [MOOC](https://www.udacity.com/course/applied-cryptography--cs387)
-
-### Passwords
-* An Administrator’s Guide to Internet Password Research [Article](https://www.usenix.org/system/files/conference/lisa14/lisa14-paper-florencio.pdf)
 
 ## Other
 * Washington Post: Erasing yourself from the Internet is nearly impossible. But here’s how you can try. [Article](https://www.washingtonpost.com/news/the-intersect/wp/2017/02/10/erasing-yourself-from-the-internet-is-nearly-impossible-but-heres-how-you-can-try/?utm_term=.22aa3a27ac4f)
