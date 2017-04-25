@@ -1,9 +1,13 @@
 # Online Security and Privacy for the Paranoid
 A master checklist to secure your online life.
 
+Note: I'm not affiliated with any products linked below, nor do I get any kind of commission/freebies/highfives for linking to them. They're just good products for the job that I have used.
+
 ### Table of Contents
+- [TLDR](#tldr)
 - [Beginner](#beginner)
   - [Logins](#logins)
+  - [Cleanup](#cleanup)
   - [Browsers](#browsers)
   - [Banking](#banking)
   - [Your Phone](#phones)
@@ -14,58 +18,74 @@ A master checklist to secure your online life.
 
 <hr>
 
+## TLDR
+
+### If you only do five things...
+* [ ] Set up 2FA on all of your Logins
+* [ ] Set different passwords for all of your accounts. Use a password manager like [1Password](https://1password.com) or [LastPass](https://www.lastpass.com).
+* [ ] Pay attention to whether a website uses http or https. Never type a password or other sensitive info into a website that only uses http.
+* [ ] Secure your Facebook and Google accounts ([see below](#google))
+* [ ] Install a VPN on your computer and phone
+
+<hr>
+
 ## Beginner
 
 ### Logins
-* [ ] Set up 2FA (two-factor authentication) on all of your accounts that support it. ([twofactorauth.org](https://twofactorauth.org/) has a full list of apps that support 2FA.)
+* [ ] Set up 2FA (two-factor authentication) on all of your accounts that support it. [Twofactorauth.org](https://twofactorauth.org/) has a full list of apps that support 2FA.
 * [ ] Set up login notifications on apps/services that allow it
-* [ ] Use a password manager like [1Password](https://1password.com) or [LastPass](https://www.lastpass.com). Change the master password periodically.
 * [ ] Use different passwords for all of your accounts
 * [ ] Generate secure passwords [LastPass Generate](https://lastpass.com/generate)
-* [ ] Use [Have I Been Pwned](https://haveibeenpwned.com) to see if any of your accounts have been compromised
+* [ ] Use a password manager like [1Password](https://1password.com) or [LastPass](https://www.lastpass.com). Change the master password periodically.
 * [ ] Update login information (or entirely delete the account) for compromised accounts
-* [ ] Delete your all of your unused and unnecessary accounts
 * [ ] On services that allow it, check for active sessions, and delete any unused, forgotten, or unapproved sessions
 
+### Cleanup
+* [ ] Delete your all of your unused and unnecessary accounts
+* [ ] Use [Have I Been Pwned](https://haveibeenpwned.com) to see if any of your accounts have been compromised
 
 ### Browsers
-* [ ] Pay attention to when a website is using https, and never type a password into a site that doesn't use https
+* [ ] Pay attention to when a website is using https, and never type a password or other sensitive info into a site that doesn't use https
 * [ ] Use a browser plugin like [uBlock Origin](https://github.com/gorhill/uBlock), privacy badger, and ghostery to prevent third parties from tracking you
 * [ ] Switch away from Google Chrome and Microsoft Edge and use [Firefox](www.firefox.com) or [Brave](www.brave.com) instead
 * [ ] Set cookies, history, etc to delete after 30 days (or less!)
 
 
 ### Banking
-* [ ] Use [Privacy.com](http://privacy.com) when doing online transactions and enable transaction notifications
-* [ ] Disable paper bank statement mailings
+* [ ] Use [Privacy.com](http://privacy.com) when doing online transactions. Enable transaction notifications to be notified every time money is spent from those cards
+* [ ] Disable paper bank statement mailings (they can be lost/stolen)
 
 
 ### Phones
 * [ ] Keep your OS and apps updated
-* [ ] Disable TouchID / fingerprint unlock
 * [ ] Set a passcode / password of 6+ characters
-* [ ] Disable what someone can see/do with your phone if they don't have the password (lock screen widgets, notification privacy, Apple/Android/Samsung Pay)
-* [ ] Disable location services for any app that doesn't really need it. Disable "always on" location services from literally everything.
-* [ ] Get rid of your Android and get an iPhone (not intentionally pretentious, && there are great iPhones at basically any price point these days)
+* [ ] Disable TouchID / fingerprint unlock. If a federal agent wants to search your device, they are allowed to ask for your fingerprint, but not your passcode.
+* [ ] Restrict what someone can see/do with your phone from the lock screen (lock screen widgets, notification privacy, Apple Pay/Android Pay/Samsung Pay)
+* [ ] Disable location services for any app that doesn't really need it. Disable "always on" location services from all apps.
+* [ ] Get rid of your Android and get an iPhone (not intentionally pretentious - it's hard to fully secure an Android device. And there are great iPhones at basically any price point these days.)
+* [ ] Install a VPN
+* [ ] Install a content blocker to prevent you from being tracked by advertisers
 
 
 ### Computers
 * [ ] Keep your OS and apps updated
+* [ ] Turn on Firewall on your Mac (via System Preferences -> Security)
 * [ ] Cover your computer webcam with a Post-it
+* [ ] Set a short screensaver time - 5 min or less - so your laptop locks itself once you're away
+* [ ] Require password immediately once your computer goes to sleep
 * [ ] Install [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) to monitor when your webcam and microphone are turned on
-* [ ] Install [Malwarebyte](http://malwarebytes.org) on your computer, and run it periodically
-* [ ] Turn on Firewall on your Mac
+* [ ] Install [Malwarebyte](http://malwarebytes.org) on your computer, and run it periodically to check for malware
 * [ ] Set Mac lockscreen notifications to private
-* [ ] For the super-paranoid, not tied to Mac or Windows: use [QUBES OS](https://www.qubes-os.org) or [Tails OS](https://tails.boum.org)
+* [ ] For the super-paranoid, not tied to Mac or Windows: consider using [QUBES OS](https://www.qubes-os.org) or [Tails OS](https://tails.boum.org)
 
 
 ### Other
-* [ ] Secure your Skype account if you need it. Delete it if you don't. (Good alternative is Google Duo, which saves some metadata but has encrypted calls.)
-* [ ] Delete your Yahoo account. If you need it for Flickr, set a long password, set up 2FA, and enable login notifications
-* [ ] Set strict privacy options on Facebook (see below)
-* [ ] Set strict privacy options on Google (see below)
+* [ ] Secure your Skype account, if you need it. Delete it if you don't need Skype. (Good alternative is Google Duo, which saves some metadata but has encrypted calls.) Skype is a top offender for getting hacked.
+* [ ] Delete your Yahoo account. If you need it for Flickr, set a long password, set up 2FA, and enable login notifications. Yahoo is another common offender
+* [ ] Set strict privacy options on Facebook (see below). They have a lot of your info, important to protect it
+* [ ] Set strict privacy options on Google (see below). Same as FB, they know a looooot about you
 * [ ] Don't buy knockoff smart home appliances. This includes security cameras
-* [ ] Get rid of your Amazon Alexa and Google Home
+* [ ] Get rid of your Amazon Alexa and Google Home. They're listening
 
 <hr>
 
@@ -76,18 +96,18 @@ A master checklist to secure your online life.
 * [ ] Use [Firefox Focus](https://itunes.apple.com/app/id1055677337) on iOS
 * [ ] Use [Panopticlick](https://panopticlick.eff.org) to test whether your browser setup is safe against tracking
 * [ ] Don't use unsecured wifi networks without a VPN
-* [ ] Install a VPN client on your computer ([VyprVPN](https://www.goldenfrog.com/vyprvpn) is a good one)
+* [ ] Install a VPN client on your computer ([VyprVPN](https://www.goldenfrog.com/vyprvpn), [TunnelBear](https://www.tunnelbear.com) are good ones)
 * [ ] Install a VPN client on your phone ([Cloak for iOS](https://itunes.apple.com/app/cloak/id473835722) is a good one)
 * [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall).
 
 ### Secure Communication
-* [ ] Use encrypted communication methods - [Signal](https://whispersystems.org), [ProtonMail](https://protonmail.com/), etc.
-* [ ] Make sure that any device or app you store sensitive info in is encrypted.  (Evernote, Day One, etc.)
+* [ ] Use encrypted communication methods - [Signal](https://whispersystems.org), [ProtonMail](https://protonmail.com/)
+* [ ] Make sure that any device or app you store sensitive info in is encrypted.  (Evernote, Day One, etc.) You can generally find out from their marketing site or FAQ, and if its not there, then contact their support team.
 
 ### Secure Your Offline Life
-* [ ] Consolidate external hard drives and USB thumbdrives so you don't lose them
+* [ ] Consolidate external hard drives and USB thumbdrives so you have fewer things to keep track of.
 * [ ] Consolidate notebooks and papers that could have sensitive info, shred the ones you don't need. Archive papers by scanning into (a secured) Evernote account if you don't need the physical copy.
-* [ ] Wipe unused old computers, phones, etc.
+* [ ] Wipe unused old computers, phones, tablets, hard drives, etc.
 
 <hr>
 
