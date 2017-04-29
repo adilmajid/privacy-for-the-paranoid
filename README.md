@@ -96,7 +96,7 @@ Note: I'm not affiliated with any products linked below, nor do I get any kind o
 * [ ] Use [Firefox Focus](https://itunes.apple.com/app/id1055677337) on iOS
 * [ ] Use [Panopticlick](https://panopticlick.eff.org) to test whether your browser setup is safe against tracking
 * [ ] Don't use unsecured wifi networks without a VPN
-* [ ] Install a VPN client on your computer ([VyprVPN](https://www.goldenfrog.com/vyprvpn), [TunnelBear](https://www.tunnelbear.com) are good ones)
+* [ ] Install a VPN client on your computer ([VyprVPN](https://www.goldenfrog.com/vyprvpn), [TunnelBear](https://www.tunnelbear.com), [Mullvad](https://www.mullvad.net) are good ones)
 * [ ] Install a VPN client on your phone ([Cloak for iOS](https://itunes.apple.com/app/cloak/id473835722) is a good one)
 * [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall).
 
