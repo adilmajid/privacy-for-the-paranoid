@@ -34,7 +34,7 @@ Note: I'm not affiliated with any products linked below, nor do I get any kind o
 
 ### Logins
 * [ ] Set up 2FA (two-factor authentication) on all of your accounts that support it. [Twofactorauth.org](https://twofactorauth.org/) has a full list of apps that support 2FA.
-* [ ] Set up login notifications on apps/services that allow it
+* [ ] Set up login notifications on apps/services that allow it. If somebody does manage to compromise that account, you'll be notified and can take action to get it back.
 * [ ] Use different passwords for all of your accounts
 * [ ] Generate secure passwords [LastPass Generate](https://lastpass.com/generate)
 * [ ] Use a password manager like [1Password](https://1password.com) or [LastPass](https://www.lastpass.com). Change the master password periodically.
