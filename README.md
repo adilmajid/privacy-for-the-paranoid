@@ -23,7 +23,7 @@ Note: I'm not affiliated with any products linked below, nor do I get any kind o
 
 ### If you only do five things...
 * [ ] Set up 2FA on all of your Logins
-* [ ] Set different passwords for all of your accounts. Use a password manager like [1Password](https://1password.com) or [LastPass](https://www.lastpass.com).
+* [ ] Set different passwords for all of your accounts. Use a password manager like [1Password](https://1password.com), [LastPass](https://www.lastpass.com), or [KeePass](https://keepass.info).
 * [ ] Pay attention to whether a website uses http or https. Never type a password or other sensitive info into a website that only uses http.
 * [ ] Update your Google settings to limit what Google tracks and update Facebook to limit what you share with others. ([see below](#google))
 * [ ] Install a VPN on your computer and phone
