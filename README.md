@@ -37,7 +37,7 @@ Note: I'm not affiliated with any products linked below, nor do I get any kind o
 * [ ] Set up login notifications on apps/services that allow it. If somebody does manage to compromise that account, you'll be notified and can take action to get it back.
 * [ ] Use different passwords for all of your accounts
 * [ ] Generate secure passwords [LastPass Generate](https://lastpass.com/generate)
-* [ ] Use a password manager like [1Password](https://1password.com) or [LastPass](https://www.lastpass.com). Change the master password periodically.
+* [ ] Use a password manager like [1Password](https://1password.com), [LastPass](https://www.lastpass.com) or [KeePass](https://keepass.info). Change the master password periodically.
 * [ ] Update login information (or entirely delete the account) for compromised accounts
 * [ ] On services that allow it, check for active sessions, and delete any unused, forgotten, or unapproved sessions
 
