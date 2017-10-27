@@ -1,5 +1,7 @@
 # Online Security and Privacy for the Paranoid
-A master checklist to secure your online life.
+A master checklist to secure your online life. 
+
+This is forever a work in progress. If you have any suggestions, please send a PR or tweet [@adilmajid](https://www.twitter.com/adilmajid).
 
 Note: I'm not affiliated with any products linked below, nor do I get any kind of commission/freebies/highfives for linking to them. They're just good products for the job that I have used.
 
