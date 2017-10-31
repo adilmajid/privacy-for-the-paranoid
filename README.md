@@ -28,7 +28,7 @@ Note: I'm not affiliated with any products linked below, nor do I get any kind o
 * [ ] Set different passwords for all of your accounts. Use a password manager like [1Password](https://1password.com), [LastPass](https://www.lastpass.com), or [KeePass](https://keepass.info).
 * [ ] Pay attention to whether a website uses http or https. Never type a password or other sensitive info into a website that only uses http.
 * [ ] Update your Google settings to limit what Google tracks and update Facebook to limit what you share with others. ([see below](#google))
-* [ ] Install a VPN on your computer and phone
+* [ ] Install a VPN on your computer and phone [Reviews](https://www.pcworld.com/article/3198369/privacy/best-vpn-services-apps-reviews-buying-advice.html)
 
 <hr>
 
@@ -99,7 +99,7 @@ Note: I'm not affiliated with any products linked below, nor do I get any kind o
 * [ ] Use [Firefox Focus](https://itunes.apple.com/app/id1055677337) on iOS
 * [ ] Use [Panopticlick](https://panopticlick.eff.org) to test whether your browser setup is safe against tracking
 * [ ] Don't use unsecured wifi networks without a VPN
-* [ ] Install a VPN client on your computer ([VyprVPN](https://www.goldenfrog.com/vyprvpn), [TunnelBear](https://www.tunnelbear.com), [Mullvad](https://www.mullvad.net) are good ones)
+* [ ] Install a VPN client on your computer. Check out [PCWorld's reviews of popular VPN clients](https://www.pcworld.com/article/3198369/privacy/best-vpn-services-apps-reviews-buying-advice.html).
 * [ ] Install a VPN client on your phone ([Encrypt.me](https://encrypt.me) and [Tunnelbear](http://tunnelbear.com) are pretty good)
 * [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall).
 
