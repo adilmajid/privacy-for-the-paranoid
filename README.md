@@ -156,3 +156,4 @@ Whether you've been affected by the Equifax hack or not, take the following step
 * [ ] Freeze your credit reports with all three agencies: [Equifax](https://www.freeze.equifax.com/Freeze/jsp/SFF_PersonalIDInfo.jsp), [Experian](https://www.experian.com/freeze/center.html), and [Transunion](https://www.transunion.com/credit-freeze/place-credit-freeze).
 * [ ] Sign up for Identity Theft Monitoring. There are a number of services offered that you can Google. I personally use [Civic](https://www.civic.com).
 * [ ] Stop getting prescreened offers of credit. [You can learn more about prescreened offers of credit here](https://www.consumer.ftc.gov/articles/0497-credit-freeze-faqs). The FTC recommends this service for opting-out, aptly named [OptOutPrescreen.com](https://www.optoutprescreen.com/?rf=t). 
+* How to get live phone support. Equifax: Call 888-202-4025 and select option 6. Experian: Call 714-830-7000. TransUnion: 800-916-8800. 
