@@ -18,6 +18,7 @@ Note: I'm not affiliated with any products linked below, nor do I get any kind o
 - [Google](#google)
 - [Facebook](#facebook)
 - [Credit Security](#credit)
+- [Cryptos](#credit)
 
 <hr>
 
@@ -157,3 +158,6 @@ Whether you've been affected by the Equifax hack or not, take the following step
 * [ ] Sign up for Identity Theft Monitoring. There are a number of services offered that you can Google. I personally use [Civic](https://www.civic.com).
 * [ ] Stop getting prescreened offers of credit. [You can learn more about prescreened offers of credit here](https://www.consumer.ftc.gov/articles/0497-credit-freeze-faqs). The FTC recommends this service for opting-out, aptly named [OptOutPrescreen.com](https://www.optoutprescreen.com/?rf=t). 
 * [ ] These guys have GARBAGE websites. So you'll probably need to get live phone support. Equifax: Call 888-202-4025 and select option 6. Experian: Call 714-830-7000, press 2 (the business line option), then ask for live help. TransUnion: 800-916-8800. 
+
+## Crypto
+* [ ] MetaMask users: be aware of these risks: [6 Ways a Site Can Attack your MetaMask](https://blog.hellobloom.io/6-ways-a-site-can-attack-your-metamask-190e6651e400)
