@@ -160,4 +160,6 @@ Whether you've been affected by the Equifax hack or not, take the following step
 * [ ] These guys have GARBAGE websites. So you'll probably need to get live phone support. Equifax: Call 888-202-4025 and select option 6. Experian: Call 714-830-7000, press 2 (the business line option), then ask for live help. TransUnion: 800-916-8800. 
 
 ## Crypto
+* [ ] Don't keep your coins on an exchange. Always make sure you control your private key. 
+* [ ] Use a paper wallet or hardware wallet like Ledger Nano S or Trezor. 
 * [ ] MetaMask users: be aware of these risks: [6 Ways a Site Can Attack your MetaMask](https://blog.hellobloom.io/6-ways-a-site-can-attack-your-metamask-190e6651e400)
