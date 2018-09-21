@@ -30,6 +30,7 @@
 ## Security
 * Reflections on Trusting Trust - Ken Thompson [Article](http://cm.bell-labs.co/who/ken/trust.html)
 * Five security settings in iOS 12 you should change right now [Article](https://techcrunch.com/2018/09/17/five-security-settings-in-ios-12-you-should-change-right-now)
+* How to Protect Yourself from a SIM Swap Attack [Article](https://www.wired.com/story/sim-swap-attack-defend-phone/?mbid=BottomRelatedStories_Sections_1)
 
 ### HTTPS
 * Moving to HTTPS Guide [Website](https://movingtohttps.com/)
