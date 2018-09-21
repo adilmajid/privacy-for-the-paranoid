@@ -29,6 +29,7 @@
 
 ## Security
 * Reflections on Trusting Trust - Ken Thompson [Article](http://cm.bell-labs.co/who/ken/trust.html)
+* Five security settings in iOS 12 you should change right now [Article](https://techcrunch.com/2018/09/17/five-security-settings-in-ios-12-you-should-change-right-now)
 
 ### HTTPS
 * Moving to HTTPS Guide [Website](https://movingtohttps.com/)
