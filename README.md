@@ -70,6 +70,11 @@ Note: I'm not affiliated with any products linked below, nor do I get any kind o
 * [ ] Install a VPN
 * [ ] Install a content blocker to prevent you from being tracked by advertisers
 
+### SIM Swap Attack Protection
+A SIM swap attack is when a hacker calls your cell provider and convinced them to transfer your phone number to them. They then use your number to gain access to your other accounts. [More Info](https://www.wired.com/story/sim-swap-attack-defend-phone/?mbid=BottomRelatedStories_Sections_1)
+* [ ] Set a pin on your SIM
+* [ ] Don't use SMS for two-factor authentication. Use Google Authenticator, Authy, or a USB-key instead. 
+
 
 ### Computers
 * [ ] Keep your OS and apps updated
