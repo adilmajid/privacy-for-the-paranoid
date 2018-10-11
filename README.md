@@ -1,7 +1,7 @@
 # Online Security and Privacy for the Paranoid
 A master checklist to secure your online life. 
 
-This is forever a work in progress. If you have any suggestions, please send a PR or tweet [@adilmajid](https://www.twitter.com/adilmajid).
+This is a work in progress. If you have any suggestions, please send a PR or tweet [@adilmajid](https://www.twitter.com/adilmajid).
 
 Note: I'm not affiliated with any products linked below, nor do I get any kind of commission/freebies/highfives for linking to them. They're just good products for the job that I have used.
 
@@ -29,7 +29,7 @@ Note: I'm not affiliated with any products linked below, nor do I get any kind o
 * [ ] Set different passwords for all of your accounts. Use a password manager like [1Password](https://1password.com), [LastPass](https://www.lastpass.com), or [KeePass](https://keepass.info).
 * [ ] Pay attention to whether a website uses http or https. Never type a password or other sensitive info into a website that only uses http.
 * [ ] Update your Google settings to limit what Google tracks and update Facebook to limit what you share with others. ([see below](#google))
-* [ ] Install a VPN on your computer and phone [Reviews](https://www.pcworld.com/article/3198369/privacy/best-vpn-services-apps-reviews-buying-advice.html)
+* [ ] Delete online accounts you don't need or use
 
 <hr>
 
