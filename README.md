@@ -8,12 +8,16 @@ Note: I'm not affiliated with any products linked below, nor do I get any kind o
 ### Table of Contents
 - [TLDR](#tldr)
 - [Lockdown](#lockdown)
+  - How to secure your online accounts, phone, laptop, and finances. 
 - [Control the data you've shared](#cleanup)
-- [Go Pro](#disappear)
-- Other
--- [Secure your Crypto](#crypto)
--- [Google](#google)
--- [Facebook](#google)
+  - What to do about the data you've already shared.
+- [Go Pro](#go-pro)
+- Other Stuff
+  - [Best Practices](#best-practices)
+  - [Reign in Google](#google)
+  - [Reign in Facebook](#google)
+  - [Secure your Crypto](#crypto)
+  - [Prevent SIM Swap Attacks](#sim-swap-attack-protection)
 
 <hr>
 
@@ -40,7 +44,6 @@ Many services are broadcast platforms, meaning you want to make sure that you ar
 * [ ] Set up two-factor authentication (2FA) on your accounts where its available. [Twofactorauth.org](https://twofactorauth.org/) has a full list of apps that support 2FA.
 * [ ] Set up login notifications on apps/services that allow it. If somebody does manage to compromise that account, you'll be notified and can take action to get it back.
 
-
 ## Secure your phone
 * [ ] Keep your OS and apps updated
 * [ ] Set a passcode / password of 6+ characters
@@ -50,7 +53,6 @@ Many services are broadcast platforms, meaning you want to make sure that you ar
 * [ ] Get rid of your Android and get an iPhone (not intentionally pretentious - it's hard to fully secure an Android device. And there are great iPhones at basically any price point these days.)
 * [ ] Install a VPN
 * [ ] Install a content blocker to prevent you from being tracked by advertisers
-
 
 ## Secure your computer
 * [ ] Keep your OS and apps updated
@@ -62,7 +64,6 @@ Many services are broadcast platforms, meaning you want to make sure that you ar
 * [ ] Install [Malwarebyte](http://malwarebytes.org) on your computer, and run it periodically to check for malware
 * [ ] Set Mac lockscreen notifications to private
 * [ ] For the super-paranoid, not tied to Mac or Windows: consider using [QUBES OS](https://www.qubes-os.org) or [Tails OS](https://tails.boum.org)
-
 
 ## Secure finances
 
@@ -78,15 +79,7 @@ Whether you've been affected by the Equifax hack or not, take the following step
 * [ ] Stop getting prescreened offers of credit. [You can learn more about prescreened offers of credit here](https://www.consumer.ftc.gov/articles/0497-credit-freeze-faqs). The FTC recommends this service for opting-out, aptly named [OptOutPrescreen.com](https://www.optoutprescreen.com/?rf=t). 
 * [ ] These guys have GARBAGE websites. So you'll probably need to get live phone support. Equifax: Call 888-202-4025 and select option 6. Experian: Call 714-830-7000, press 2 (the business line option), then ask for live help. TransUnion: 800-916-8800. 
 
-
-## Be Careful What You Share
-* [ ] Limit what Google tracks about you. See how
-* [ ] Limit what Facebook tracks about you. See how
-* [ ] Think carefully about new services you sign up for and the data you share with them.. Do you trust them with your data? 
-* [ ] Be careful when granting Location permissions to apps on your phone. Google and Facebook apps, for instance, keep a horrifyingly detailed log of your location history. 
-* [ ] Be careful when granting Contacts access to apps on your phone. Are they going to sync your contacts to their server? FYI: Messenger does! And is super shady about it.
-
-## Secure Your Offline Life
+## Secure your offline life
 Most people don't think about this one, but it matters. Leaving personal information lying around is a liability.
 
 * [ ] Consolidate external hard drives and USB thumbdrives so you have fewer things to keep track of.
@@ -103,9 +96,16 @@ You have personal data in all of your accounts. Some of those accounts can broad
 * [ ] Secure your Skype account, if you need it. Delete it if you don't need Skype. Skype is a top offender for getting hacked.
 * [ ] Delete your Yahoo account. If you need it for Flickr, set a long password, set up 2FA, and enable login notifications. Yahoo is another common offender
 
+## Limit what companies can track about you
+* [ ] Limit what Google tracks about you. See how
+* [ ] Limit what Facebook tracks about you. See how
+* [ ] Think carefully about new services you sign up for and the data you share with them.. Do you trust them with your data? 
+* [ ] Be careful when granting Location permissions to apps on your phone. Google and Facebook apps, for instance, keep a horrifyingly detailed log of your location history. 
+* [ ] Be careful when granting Contacts access to apps on your phone. Are they going to sync your contacts to their server? FYI: Messenger does! And is super shady about it.
+
 <hr>
 
-# Disappear
+# Go Pro
 So... You want to go pro.
 
 You've secured your accounts and deleted the ones you don't use. Now you want to go dark.
@@ -113,8 +113,6 @@ You've secured your accounts and deleted the ones you don't use. Now you want to
 Unfortunately, that's damn near impossible, but you can do certain things to get close.
 
 ## Browse Securely
-* [ ] Use DuckDuckGo as your search engine
-* [ ] Switch away from Google Chrome and Microsoft Edge and use [Firefox](www.firefox.com), Apple Safari, or [Brave](www.brave.com) instead
 * [ ] Use a browser plugin like [uBlock Origin](https://github.com/gorhill/uBlock), privacy badger, and ghostery to prevent third parties from tracking you
 * [ ] Set cookies, history, etc. to delete after 30 days (or less!)
 * [ ] Use a VPN when browsing on public networks
@@ -125,41 +123,33 @@ Unfortunately, that's damn near impossible, but you can do certain things to get
 * [] Use [DNS Leak Test](https://www.dnsleaktest.com) to test whether your VPN setup is working
 * [ ] Use [Firefox Focus](https://itunes.apple.com/app/id1055677337) on iOS
 
-## Communicate Securely
+## Use privacy-friendly services
+* [ ] Use DuckDuckGo as your search engine
+* [ ] Switch away from Google Chrome and Microsoft Edge and use [Firefox](www.firefox.com), Apple Safari, or [Brave](www.brave.com) instead
 * [ ] Use Signal or WhatsApp for end-to-end encrypted messaging
 * [ ] Use ProtonMail for encrypted email.
-* [ ] Delete Facebook and Google. Yes, this is obviously easier said than done. But Facebook and Google are the worst offenders. They vacuum personal data like a surveillance state. They are dishonest about hacks. The user is the product. 
-
-## Crypto
-* [ ] Don't keep your coins on an exchange. Always make sure you control your private key. 
-* [ ] Use a paper wallet or hardware wallet like Ledger Nano S or Trezor. 
-* [ ] MetaMask users: be aware of these risks: [6 Ways a Site Can Attack your MetaMask](https://blog.hellobloom.io/6-ways-a-site-can-attack-your-metamask-190e6651e400)
-
-## Pro Tools
+* [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall). Your computer sends a lot of dat in the background that you might not know about. With Little Snitch you can see when and where information from your computer is being sent.
 * [ ] Use [Tor](https://www.torproject.org) for web browsing. The more people use it the better the network is
 * [ ] Use TailsOS
-* [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall). Your computer sends a lot of dat in the background that you might not know about. With Little Snitch you can see when and where information from your computer is being sent.
 
 ## Be Good
 * [ ] Support companies that protect your data. By “support” I mean pay for their services. If you don’t, they’ll go out of business, and all we’ll have left are free products that vacuum up all of the user data they can.
 * [ ] Follow Electronic Frontier Foundation. Donate!
 
-## Other Best Practices
-* [ ] Don’t use phone numbers for 2FA. See SIM Swap Attack Protection below.
-* [ ] Check for HTTPS.
-* [ ] Do a regular security audit. Regularly passwords for your “key” accounts. Check for active logged-in sessions that you don’t recognize.
-* [ ] Make sure that any device or app you store sensitive info in is encrypted.  (Evernote, Day One, etc.) You can generally find out from their marketing site or FAQ, and if its not there, then contact their support team.
-* [ ] Don't buy knockoff smart home appliances. This includes security cameras.
-* [ ] Get rid of your Amazon Alexa and Google Home. They're listening.
-
-## SIM Swap Attack Protection
-A SIM swap attack is when a hacker calls your cell provider and convinced them to transfer your phone number to them. They then use your number to gain access to your other accounts. [More Info](https://www.wired.com/story/sim-swap-attack-defend-phone/?mbid=BottomRelatedStories_Sections_1)
-* [ ] Set a pin on your SIM
-* [ ] Don't use SMS for two-factor authentication. Use Google Authenticator, Authy, or a USB-key instead. 
+## Last but not least...
+* [ ] Delete Facebook and Google. Yes, this is obviously easier said than done. But Facebook and Google are the worst offenders. They vacuum personal data like a surveillance state. They are dishonest about hacks. The user is the product. 
 
 <hr>
 
-# Website-Specific Stuff
+# Other Stuff
+
+## Best Practices
+* [ ] Don’t use phone numbers for 2FA. See [SIM Swap Attack Protection](#sim-swap-attack-protection) below.
+* [ ] Do a regular security audit. Regularly passwords for your “key” accounts. Check for active logged-in sessions that you don’t recognize.
+* [ ] Make sure that any device or app you store sensitive info in is encrypted.  (Evernote, Day One, etc.) You can generally find out from their marketing site or FAQ, and if its not there, then contact their support team.
+* [ ] Don't buy knockoff smart home appliances. This includes security cameras.
+* [ ] Get rid of your Amazon Alexa and Google Home. They are listening!
+
 ## Google
 
 ### Secure Login
@@ -178,8 +168,6 @@ A SIM swap attack is when a hacker calls your cell provider and convinced them t
 ### Beast Mode
 * [ ] Switch to [DuckDuckGo](https://duckduckgo.com) as your  main search engine. (You can set it as default for Safari, Chrome, Firefox, and iOS Safari now)
 
-<hr>
-
 ## Facebook
 
 ### Secure Login
@@ -196,3 +184,13 @@ A SIM swap attack is when a hacker calls your cell provider and convinced them t
 * [ ] Go through each of your Cover Photos and set them to Friends or stricter. Your current Cover Photo will always be Public, but older ones can be restricted to Friends.
 * [ ] Go through old photos and clean up! If necessary, ask friends to take down ones you no longer want online.
 * [ ] Use [Dataselfie](http://dataselfie.it) to see how machine learning algorithms map your personality
+
+## Crypto
+* [ ] Don't keep your coins on an exchange. Always make sure you control your private key. 
+* [ ] Use a paper wallet or hardware wallet like Ledger Nano S or Trezor. 
+* [ ] MetaMask users: be aware of these risks: [6 Ways a Site Can Attack your MetaMask](https://blog.hellobloom.io/6-ways-a-site-can-attack-your-metamask-190e6651e400)
+
+## SIM Swap Attack Protection
+A SIM swap attack is when a hacker calls your cell provider and convinced them to transfer your phone number to them. They then use your number to gain access to your other accounts. [More Info](https://www.wired.com/story/sim-swap-attack-defend-phone/?mbid=BottomRelatedStories_Sections_1)
+* [ ] Set a pin on your SIM
+* [ ] Don't use SMS for two-factor authentication. Use Google Authenticator, Authy, or a USB-key instead.
