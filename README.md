@@ -10,6 +10,10 @@ Note: I'm not affiliated with any products linked below, nor do I get any kind o
 - [Lockdown](#lockdown)
 - [Control the data you've shared](#cleanup)
 - [Go Pro](#disappear)
+- Other
+-- [Secure your Crypto](#crypto)
+-- [Google](#google)
+-- [Facebook](#google)
 
 <hr>
 
@@ -82,6 +86,13 @@ Whether you've been affected by the Equifax hack or not, take the following step
 * [ ] Be careful when granting Location permissions to apps on your phone. Google and Facebook apps, for instance, keep a horrifyingly detailed log of your location history. 
 * [ ] Be careful when granting Contacts access to apps on your phone. Are they going to sync your contacts to their server? FYI: Messenger does! And is super shady about it.
 
+## Secure Your Offline Life
+Most people don't think about this one, but it matters. Leaving personal information lying around is a liability.
+
+* [ ] Consolidate external hard drives and USB thumbdrives so you have fewer things to keep track of.
+* [ ] Consolidate notebooks and papers that could have sensitive info, shred the ones you don't need. Archive papers by scanning into (a secured) Evernote account if you don't need the physical copy.
+* [ ] Wipe unused old computers, phones, tablets, hard drives, etc.
+
 <hr>
 
 # Cleanup
@@ -95,7 +106,11 @@ You have personal data in all of your accounts. Some of those accounts can broad
 <hr>
 
 # Disappear
-You've secured your accounts and deleted the ones you don't use. But not getting hacked is not enough... you want to go dark. Unfortunately, that's damn near impossible, but you can do certain things to get close.
+So... You want to go pro.
+
+You've secured your accounts and deleted the ones you don't use. Now you want to go dark.
+
+Unfortunately, that's damn near impossible, but you can do certain things to get close.
 
 ## Browse Securely
 * [ ] Use DuckDuckGo as your search engine
@@ -113,20 +128,12 @@ You've secured your accounts and deleted the ones you don't use. But not getting
 ## Communicate Securely
 * [ ] Use Signal or WhatsApp for end-to-end encrypted messaging
 * [ ] Use ProtonMail for encrypted email.
-
-## Beast Mode
 * [ ] Delete Facebook and Google. Yes, this is obviously easier said than done. But Facebook and Google are the worst offenders. They vacuum personal data like a surveillance state. They are dishonest about hacks. The user is the product. 
 
-<hr>
-
-# Go Pro
-So... You want to go pro.
-
-## Best Practices
-* [ ] Don’t use phone numbers for 2FA. See SIM Swap Attack Protection below.
-* [ ] Check for HTTPS.
-* [ ] Do a regular security audit. Regularly passwords for your “key” accounts. Check for active logged-in sessions that you don’t recognize.
-* [ ] Make sure that any device or app you store sensitive info in is encrypted.  (Evernote, Day One, etc.) You can generally find out from their marketing site or FAQ, and if its not there, then contact their support team.
+## Crypto
+* [ ] Don't keep your coins on an exchange. Always make sure you control your private key. 
+* [ ] Use a paper wallet or hardware wallet like Ledger Nano S or Trezor. 
+* [ ] MetaMask users: be aware of these risks: [6 Ways a Site Can Attack your MetaMask](https://blog.hellobloom.io/6-ways-a-site-can-attack-your-metamask-190e6651e400)
 
 ## Pro Tools
 * [ ] Use [Tor](https://www.torproject.org) for web browsing. The more people use it the better the network is
@@ -137,28 +144,22 @@ So... You want to go pro.
 * [ ] Support companies that protect your data. By “support” I mean pay for their services. If you don’t, they’ll go out of business, and all we’ll have left are free products that vacuum up all of the user data they can.
 * [ ] Follow Electronic Frontier Foundation. Donate!
 
-## Good To Know
+## Other Best Practices
+* [ ] Don’t use phone numbers for 2FA. See SIM Swap Attack Protection below.
+* [ ] Check for HTTPS.
+* [ ] Do a regular security audit. Regularly passwords for your “key” accounts. Check for active logged-in sessions that you don’t recognize.
+* [ ] Make sure that any device or app you store sensitive info in is encrypted.  (Evernote, Day One, etc.) You can generally find out from their marketing site or FAQ, and if its not there, then contact their support team.
 * [ ] Don't buy knockoff smart home appliances. This includes security cameras.
 * [ ] Get rid of your Amazon Alexa and Google Home. They're listening.
-
-## Crypto
-* [ ] Don't keep your coins on an exchange. Always make sure you control your private key. 
-* [ ] Use a paper wallet or hardware wallet like Ledger Nano S or Trezor. 
-* [ ] MetaMask users: be aware of these risks: [6 Ways a Site Can Attack your MetaMask](https://blog.hellobloom.io/6-ways-a-site-can-attack-your-metamask-190e6651e400)
 
 ## SIM Swap Attack Protection
 A SIM swap attack is when a hacker calls your cell provider and convinced them to transfer your phone number to them. They then use your number to gain access to your other accounts. [More Info](https://www.wired.com/story/sim-swap-attack-defend-phone/?mbid=BottomRelatedStories_Sections_1)
 * [ ] Set a pin on your SIM
 * [ ] Don't use SMS for two-factor authentication. Use Google Authenticator, Authy, or a USB-key instead. 
 
-## Secure Your Offline Life
-* [ ] Consolidate external hard drives and USB thumbdrives so you have fewer things to keep track of.
-* [ ] Consolidate notebooks and papers that could have sensitive info, shred the ones you don't need. Archive papers by scanning into (a secured) Evernote account if you don't need the physical copy.
-* [ ] Wipe unused old computers, phones, tablets, hard drives, etc.
-
 <hr>
 
-# Website-Specific 
+# Website-Specific Stuff
 ## Google
 
 ### Secure Login
