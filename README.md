@@ -114,30 +114,28 @@ Unfortunately, that's damn near impossible, but you can do certain things to get
 
 ## Browse Securely
 * [ ] Use a browser plugin like [uBlock Origin](https://github.com/gorhill/uBlock), privacy badger, and ghostery to prevent third parties from tracking you
-* [ ] Set cookies, history, etc. to delete after 30 days (or less!)
-* [ ] Use a VPN when browsing on public networks
 * [ ] Don't use unsecured wifi networks without a VPN
-* [ ] Install a VPN client on your computer. Check out [PCWorld's reviews of popular VPN clients](https://www.pcworld.com/article/3198369/privacy/best-vpn-services-apps-reviews-buying-advice.html).
-* [ ] Install a VPN client on your phone ([Encrypt.me](https://encrypt.me) and [Tunnelbear](http://tunnelbear.com) are pretty good)
+* [ ] Install a VPN client on your computer. Check out [PCWorld's reviews of popular VPN clients](https://www.pcworld.com/article/3198369/privacy/best-vpn-services-apps-reviews-buying-advice.html). My favorite is [Mullvad](http://mullvad.net). They don't require any personal info, like name or email address, for registration, and you can pay in cash or crypto.
+* [ ] Install a VPN client on your phone ([Encrypt.me](https://encrypt.me) and [Tunnelbear](http://tunnelbear.com) are pretty good). I prefer Mullvad here as well.
 * [ ] Use [Panopticlick](https://panopticlick.eff.org) to test whether your browser setup is safe against tracking
-* [] Use [DNS Leak Test](https://www.dnsleaktest.com) to test whether your VPN setup is working
+* [ ] Use [DNS Leak Test](https://www.dnsleaktest.com) to test whether your VPN setup is working
+* [ ] Switch away from Google Chrome and Microsoft Edge and use [Firefox](www.firefox.com), Apple Safari, or [Brave](www.brave.com) instead
 * [ ] Use [Firefox Focus](https://itunes.apple.com/app/id1055677337) on iOS
+* [ ] Set cookies, history, etc. to delete after 30 days (or less!)
 
 ## Use privacy-friendly services
-* [ ] Use DuckDuckGo as your search engine
-* [ ] Switch away from Google Chrome and Microsoft Edge and use [Firefox](www.firefox.com), Apple Safari, or [Brave](www.brave.com) instead
-* [ ] Use Signal or WhatsApp for end-to-end encrypted messaging
-* [ ] Use ProtonMail for encrypted email.
-* [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall). Your computer sends a lot of dat in the background that you might not know about. With Little Snitch you can see when and where information from your computer is being sent.
+* [ ] Use [DuckDuckGo](https://duckduckgo.com) as your search engine. They're great, they don't track you, and they're profitable, so no need to worry about them shutting down one day
+* [ ] Use [Signal](http://signal.org) or [WhatsApp](https://whatsapp.com) for end-to-end encrypted messaging
+* [ ] Use [ProtonMail](https://protonmail.com) for encrypted email
+* [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall). Your computer sends a lot of dat in the background that you might not know about. With Little Snitch you can see when and where information from your computer is being sent
 * [ ] Use [Tor](https://www.torproject.org) for web browsing. The more people use it the better the network is
-* [ ] Use TailsOS
 
 ## Be Good
-* [ ] Support companies that protect your data. By “support” I mean pay for their services. If you don’t, they’ll go out of business, and all we’ll have left are free products that vacuum up all of the user data they can.
-* [ ] Follow Electronic Frontier Foundation. Donate!
+* [ ] Support companies that protect your data. By support, I mean pay for their services. If you don’t, they’ll go out of business, and all we’ll have left are free products that vacuum up all of the user data they can.
+* [ ] Follow the [Electronic Frontier Foundation](https://www.eff.org). And [donate](https://supporters.eff.org/donate/join-eff-today)! They do great work.
 
 ## Last but not least...
-* [ ] Delete Facebook and Google. Yes, this is obviously easier said than done. But Facebook and Google are the worst offenders. They vacuum personal data like a surveillance state. They are dishonest about hacks. The user is the product. 
+* [ ] Delete Facebook and Google. Yes, this is obviously easier said than done. But Facebook and Google are the worst offenders against individual privacy. They vacuum personal data like a surveillance state. They are dishonest about hacks and data leaks.
 
 <hr>
 
