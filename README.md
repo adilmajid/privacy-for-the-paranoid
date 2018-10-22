@@ -35,7 +35,7 @@ Note: I'm not affiliated with any products linked below, nor do I get any kind o
 # Lockdown
 Virtually every online service you use stores some of your personal information. It could be as basic as your name and email address. Or it could be highly personal, like your sexual orientation, your notes and documents, your credit card information, your messages… so on.  This is information you want kept safe. 
 
-Many services are broadcast platforms, meaning you want to make sure that you are the only person logging in and sharing things under your name.
+Many services are broadcast platforms, meaning you want to make sure nobody should be able to access these accounts other than you.
 
 ## Secure your online accounts
 * [ ] Use a different password for every online service.
