@@ -39,7 +39,7 @@ Many services are broadcast platforms, meaning you want to make sure nobody shou
 
 ## Secure your online accounts
 * [ ] Use a different password for every online service.
-* [ ] Generate secure passwords [LastPass Generate](https://lastpass.com/generate). A secure password is not necessarily composed of complicated combinations of special characters. These are difficult to remember. Instead, a long password (like an easy-to-remember phrase of 5 or more words) is more secure because it has more characters is harder to guess by brute force. 
+* [ ] Generate secure passwords using [1password Password Generator](https://1password.com/password-generator/) or [LastPass Generate](https://lastpass.com/generate). A secure password is not necessarily composed of complicated combinations of special characters. These are difficult to remember. Instead, a long password (like an easy-to-remember phrase of 5 or more words) is more secure because it has more characters is harder to guess by brute force. 
 * [ ] Use a password manager like [1Password](https://1password.com), [LastPass](https://www.lastpass.com) or [KeePass](https://keepass.info). Change the master password periodically.
 * [ ] Set up two-factor authentication (2FA) on your accounts where its available. [Twofactorauth.org](https://twofactorauth.org/) has a full list of apps that support 2FA.
 * [ ] Set up login notifications on apps/services that allow it. If somebody does manage to compromise that account, you'll be notified and can take action to get it back.
