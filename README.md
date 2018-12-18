@@ -50,7 +50,7 @@ Many services are broadcast platforms, meaning you want to make sure nobody shou
 * [ ] Disable TouchID / fingerprint unlock. If a federal agent wants to search your device, they are allowed to ask for your fingerprint, but not your passcode.
 * [ ] Restrict what someone can see/do with your phone from the lock screen (lock screen widgets, notification privacy, Apple Pay/Android Pay/Samsung Pay)
 * [ ] Disable location services for any app that doesn't really need it. Disable "always on" location services from all apps.
-* [ ] Get rid of your Android and get an iPhone (not intentionally pretentious - it's hard to fully secure an Android device. And there are great iPhones at basically any price point these days.)
+* [ ] Get rid of your Android and get an iPhone (not intentionally pretentious - it's hard to fully secure an Android device. And there are great iPhones at basically any price point these days. And Google doesn't get to vacuum up all your data.)
 * [ ] Install a VPN
 * [ ] Install a content blocker to prevent you from being tracked by advertisers
 
