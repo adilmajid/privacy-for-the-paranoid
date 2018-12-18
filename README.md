@@ -164,7 +164,8 @@ Unfortunately, that's damn near impossible, but you can do certain things to get
 * [ ] Check Google+ for what data Google has made public, set anything you don't like to private
 
 ### Beast Mode
-* [ ] Switch to [DuckDuckGo](https://duckduckgo.com) as your  main search engine. (You can set it as default for Safari, Chrome, Firefox, and iOS Safari now)
+* [ ] Switch to [DuckDuckGo](https://duckduckgo.com) as your  main search engine. (You can set it as default for Brave, Safari, Chrome, Firefox, and iOS Safari now)
+* [ ] Switch to [Brave Browser](https://brave.com) as your browser instead of Chrome.
 
 ## Facebook
 
