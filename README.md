@@ -1,6 +1,6 @@
 # Online Security and Privacy for the Paranoid
 
-"Only the paranoid survive."
+_"Only the paranoid survive."_
 
 A master checklist to secure your online life. 
 
