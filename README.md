@@ -1,4 +1,7 @@
 # Online Security and Privacy for the Paranoid
+
+"Only the paranoid survive."
+
 A master checklist to secure your online life. 
 
 This is a work in progress. If you have any suggestions, please submit a PR or tweet [@adilmajid](https://www.twitter.com/adilmajid).
