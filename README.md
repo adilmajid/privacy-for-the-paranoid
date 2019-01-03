@@ -4,9 +4,11 @@ _"Only the paranoid survive."_
 
 A master checklist to secure your online life. 
 
-This is a work in progress. If you have any suggestions, please submit a PR or tweet [@adilmajid](https://www.twitter.com/adilmajid).
+This is a work in progress. Comments and feedback are much appreciated. If you have any suggestions, please submit a PR or tweet [@adilmajid](https://www.twitter.com/adilmajid).
 
 Note: I'm not affiliated with any products linked below, nor do I get any kind of commission/freebies/highfives for linking to them. They're just good products for the job that I have used.
+
+Disclaimer: this is a list of good practices, but no guarantees, obviously.
 
 ### Table of Contents
 - [TLDR](#tldr)
@@ -16,6 +18,7 @@ Note: I'm not affiliated with any products linked below, nor do I get any kind o
   - What to do about the data you've already shared.
 - [Go Pro](#go-pro)
 - Other Stuff
+  - [Be Good](#be-good)
   - [Best Practices](#best-practices)
   - [Reign in Google](#google)
   - [Reign in Facebook](#google)
@@ -66,7 +69,6 @@ Many services are broadcast platforms, meaning you want to make sure nobody shou
 * [ ] Install [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) to monitor when your webcam and microphone are turned on
 * [ ] Install [Malwarebyte](http://malwarebytes.org) on your computer, and run it periodically to check for malware
 * [ ] Set Mac lockscreen notifications to private
-* [ ] For the super-paranoid, not tied to Mac or Windows: consider using [QUBES OS](https://www.qubes-os.org) or [Tails OS](https://tails.boum.org)
 
 ## Secure finances
 
@@ -113,7 +115,15 @@ So... You want to go pro.
 
 You've secured your accounts and deleted the ones you don't use. Now you want to go dark.
 
-Unfortunately, that's damn near impossible, but you can do certain things to get close.
+Unfortunately, that's near impossible, but you can do certain things to get close.
+
+## Use privacy-friendly services
+* [ ] Use [Tor](https://www.torproject.org) for web browsing. The more people use it the better the network is
+* [ ] For the super-paranoid, not tied to Mac or Windows: consider using [QUBES OS](https://www.qubes-os.org) or [Tails OS](https://tails.boum.org)
+* [ ] Use [Signal](http://signal.org) or [WhatsApp](https://whatsapp.com) for end-to-end encrypted messaging
+* [ ] Use [ProtonMail](https://protonmail.com) for encrypted email
+* [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall). Your computer sends a lot of dat in the background that you might not know about. With Little Snitch you can see when and where information from your computer is being sent
+* [ ] Use [DuckDuckGo](https://duckduckgo.com) as your search engine. They're great, they don't track you, and they're profitable, so no need to worry about them shutting down one day
 
 ## Browse Securely
 * [ ] Use a browser plugin like [uBlock Origin](https://github.com/gorhill/uBlock), privacy badger, and ghostery to prevent third parties from tracking you
@@ -126,23 +136,16 @@ Unfortunately, that's damn near impossible, but you can do certain things to get
 * [ ] Use [Firefox Focus](https://itunes.apple.com/app/id1055677337) on iOS
 * [ ] Set cookies, history, etc. to delete after 30 days (or less!)
 
-## Use privacy-friendly services
-* [ ] Use [DuckDuckGo](https://duckduckgo.com) as your search engine. They're great, they don't track you, and they're profitable, so no need to worry about them shutting down one day
-* [ ] Use [Signal](http://signal.org) or [WhatsApp](https://whatsapp.com) for end-to-end encrypted messaging
-* [ ] Use [ProtonMail](https://protonmail.com) for encrypted email
-* [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall). Your computer sends a lot of dat in the background that you might not know about. With Little Snitch you can see when and where information from your computer is being sent
-* [ ] Use [Tor](https://www.torproject.org) for web browsing. The more people use it the better the network is
-
-## Be Good
-* [ ] Support companies that protect your data. By support, I mean pay for their services. If you don’t, they’ll go out of business, and all we’ll have left are free products that vacuum up all of the user data they can.
-* [ ] Follow the [Electronic Frontier Foundation](https://www.eff.org). And [donate](https://supporters.eff.org/donate/join-eff-today)! They do great work.
-
 ## Last but not least...
 * [ ] Delete Facebook and Google. Yes, this is obviously easier said than done. But Facebook and Google are the worst offenders against individual privacy. They vacuum personal data like a surveillance state. They are dishonest about hacks and data leaks.
 
 <hr>
 
 # Other Stuff
+
+## Be Good
+* [ ] Support companies that protect your data. By support, I mean pay for their services. If you don’t, they’ll go out of business, and all we’ll have left are free products that vacuum up all of the user data they can.
+* [ ] Follow the [Electronic Frontier Foundation](https://www.eff.org). And [donate](https://supporters.eff.org/donate/join-eff-today)! They do great work.
 
 ## Best Practices
 * [ ] Don’t use phone numbers for 2FA. See [SIM Swap Attack Protection](#sim-swap-attack-protection) below.
