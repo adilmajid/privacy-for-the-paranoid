@@ -6,6 +6,8 @@ A master checklist to secure your online life.
 
 This is a work in progress. Comments and feedback are much appreciated. If you have any suggestions, please submit a PR or tweet [@adilmajid](https://www.twitter.com/adilmajid).
 
+The whole document and each individual section begin with the simplest changes. 
+
 Note: I'm not affiliated with any products linked below, nor do I get any kind of commission/freebies/highfives for linking to them. They're just good products for the job that I have used.
 
 Disclaimer: this is a list of good practices, but no guarantees, obviously.
@@ -33,13 +35,13 @@ Disclaimer: this is a list of good practices, but no guarantees, obviously.
 * [ ] Set up 2FA on all of your logins
 * [ ] Set different passwords for all of your accounts. Use a password manager like [1Password](https://1password.com), [LastPass](https://www.lastpass.com), or [KeePass](https://keepass.info).
 * [ ] Pay attention to whether a website uses http or https. Never type a password or other sensitive info into a website that only uses http.
-* [ ] Update your Google settings to limit what Google tracks and update Facebook to limit what you share with others. ([Google](#google))([Facebook](#facebook))
+* [ ] Update your Google settings to limit what Google tracks and update Facebook to limit what you share with others. (Jump to [Google](#google))(Jump to [Facebook](#facebook))
 * [ ] Delete online accounts you don't need or use
 
 <hr>
 
 # Lockdown
-Virtually every online service you use stores some of your personal information. It could be as basic as your name and email address. Or it could be highly personal, like your sexual orientation, your notes and documents, your credit card information, your messages… so on.  This is information you want kept safe. 
+Virtually every online service you use stores some of your personal information. It could be as basic as your name and email address. Or it could be highly personal, like your sexual orientation, your notes and documents, your credit card information, your messages… so on.  This is information you want kept safe.
 
 Many services are broadcast platforms, meaning you want to make sure nobody should be able to access these accounts other than you.
 
@@ -48,23 +50,24 @@ Many services are broadcast platforms, meaning you want to make sure nobody shou
 * [ ] Generate secure passwords using [1password Password Generator](https://1password.com/password-generator/) or [LastPass Generate](https://lastpass.com/generate). A secure password is not necessarily composed of complicated combinations of special characters. These are difficult to remember. Instead, a long password (like an easy-to-remember phrase of 5 or more words) is more secure because it has more characters is harder to guess by brute force. 
 * [ ] Use a password manager like [1Password](https://1password.com), [LastPass](https://www.lastpass.com) or [KeePass](https://keepass.info). Change the master password periodically.
 * [ ] Set up two-factor authentication (2FA) on your accounts where its available. [Twofactorauth.org](https://twofactorauth.org/) has a full list of apps that support 2FA.
-* [ ] Set up login notifications on apps/services that allow it. If somebody does manage to compromise that account, you'll be notified and can take action to get it back.
+* [ ] Don’t use phone numbers for 2FA. See [SIM Swap Attack Protection](#sim-swap-attack-protection) below.
+* [ ] Set up login notifications on apps/services that allow it. If somebody does manage to compromise that account, you'll be notified and can take action to get it back. 
 
 ## Secure your phone
 * [ ] Keep your OS and apps updated
 * [ ] Set a passcode / password of 6+ characters
-* [ ] Disable TouchID / fingerprint unlock. If a federal agent wants to search your device, they are allowed to ask for your fingerprint, but not your passcode.
-* [ ] Restrict what someone can see/do with your phone from the lock screen (lock screen widgets, notification privacy, Apple Pay/Android Pay/Samsung Pay)
+* [ ] Disable TouchID / fingerprint unlock. If a federal agent wants to search your device, they are allowed to ask for your fingerprint, but not your passcode. (Update: [this may no longer be necessary](https://gizmodo.com/cops-cant-force-people-to-unlock-their-phones-with-biom-1831743969), but the decision is expected to be challenged. Better safe than sorry.)
+* [ ] Restrict what someone can see/do with your phone from the lock screen (restrict access to lock screen widgets, notification privacy, Apple Pay/Android Pay/Samsung Pay)
 * [ ] Disable location services for any app that doesn't really need it. Disable "always on" location services from all apps.
 * [ ] Get rid of your Android and get an iPhone (not intentionally pretentious - it's hard to fully secure an Android device. And there are great iPhones at basically any price point these days. And Google doesn't get to vacuum up all your data.)
-* [ ] Install a VPN
+* [ ] Install a VPN (See more at in the Browse Securely section)[#browse-securely]
 * [ ] Install a content blocker to prevent you from being tracked by advertisers
 
 ## Secure your computer
 * [ ] Keep your OS and apps updated
 * [ ] Turn on Firewall on your Mac (via System Preferences -> Security)
 * [ ] Cover your computer webcam with a Post-it
-* [ ] Set a short screensaver time - 5 min or less - so your laptop locks itself once you're away
+* [ ] Set your laptop locks itself quickly if you are inactive
 * [ ] Require password immediately once your computer goes to sleep
 * [ ] Install [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html) to monitor when your webcam and microphone are turned on
 * [ ] Install [Malwarebyte](http://malwarebytes.org) on your computer, and run it periodically to check for malware
@@ -102,59 +105,55 @@ You have personal data in all of your accounts. Some of those accounts can broad
 * [ ] Delete your Yahoo account. If you need it for Flickr, set a long password, set up 2FA, and enable login notifications. Yahoo is another common offender
 
 ## Limit what companies can track about you
-* [ ] Limit what Google tracks about you. See how
-* [ ] Limit what Facebook tracks about you. See how
+* [ ] Limit what Google tracks about you. [See how](#google)
+* [ ] Limit what Facebook tracks about you. [See how](#facebook)
 * [ ] Think carefully about new services you sign up for and the data you share with them.. Do you trust them with your data? 
 * [ ] Be careful when granting Location permissions to apps on your phone. Google and Facebook apps, for instance, keep a horrifyingly detailed log of your location history. 
-* [ ] Be careful when granting Contacts access to apps on your phone. Are they going to sync your contacts to their server? FYI: Messenger does! And is super shady about it.
+* [ ] Be careful when granting Contacts access to apps on your phone. Are they going to sync your contacts to their server? (FYI: Facebook Messenger does! And is super shady about it.)
 
 <hr>
 
 # Go Pro
-So... You want to go pro.
-
-You've secured your accounts and deleted the ones you don't use. Now you want to go dark.
-
-Unfortunately, that's near impossible, but you can do certain things to get close.
 
 ## Use privacy-friendly services
-* [ ] Use [Tor](https://www.torproject.org) for web browsing. The more people use it the better the network is
-* [ ] For the super-paranoid, not tied to Mac or Windows: consider using [QUBES OS](https://www.qubes-os.org) or [Tails OS](https://tails.boum.org)
+* [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall). Your computer sends a lot of dat in the background that you might not know about. With Little Snitch you can see when and where information from your computer is being sent
 * [ ] Use [Signal](http://signal.org) or [WhatsApp](https://whatsapp.com) for end-to-end encrypted messaging
 * [ ] Use [ProtonMail](https://protonmail.com) for encrypted email
-* [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall). Your computer sends a lot of dat in the background that you might not know about. With Little Snitch you can see when and where information from your computer is being sent
 * [ ] Use [DuckDuckGo](https://duckduckgo.com) as your search engine. They're great, they don't track you, and they're profitable, so no need to worry about them shutting down one day
+* [ ] Use [Tor](https://www.torproject.org) for web browsing. The more people use it the better the network is
+* [ ] For the super-paranoid, not tied to Mac or Windows: consider using [QUBES OS](https://www.qubes-os.org) or [Tails OS](https://tails.boum.org)
 
 ## Browse Securely
 * [ ] Use a browser plugin like [uBlock Origin](https://github.com/gorhill/uBlock), privacy badger, and ghostery to prevent third parties from tracking you
-* [ ] Don't use unsecured wifi networks without a VPN
 * [ ] Install a VPN client on your computer. Check out [PCWorld's reviews of popular VPN clients](https://www.pcworld.com/article/3198369/privacy/best-vpn-services-apps-reviews-buying-advice.html). My favorite is [Mullvad](http://mullvad.net). They don't require any personal info, like name or email address, for registration, and you can pay in cash or crypto.
 * [ ] Install a VPN client on your phone ([Encrypt.me](https://encrypt.me) and [Tunnelbear](http://tunnelbear.com) are pretty good). I prefer Mullvad here as well.
+* [ ] Don't use unsecured wifi networks without a VPN
 * [ ] Use [Panopticlick](https://panopticlick.eff.org) to test whether your browser setup is safe against tracking
 * [ ] Use [DNS Leak Test](https://www.dnsleaktest.com) to test whether your VPN setup is working
-* [ ] Switch away from Google Chrome and Microsoft Edge and use [Firefox](www.firefox.com), Apple Safari, or [Brave](www.brave.com) instead
-* [ ] Use [Firefox Focus](https://itunes.apple.com/app/id1055677337) on iOS
+* [ ] Switch away from Google Chrome and Microsoft Edge and use [Firefox](www.firefox.com), Safari, or [Brave](www.brave.com) instead
+* [ ] Use [Firefox Focus](https://itunes.apple.com/app/id1055677337), DuckDuckGo Browser, or Brave Browser on iOS
 * [ ] Set cookies, history, etc. to delete after 30 days (or less!)
 
 ## Last but not least...
-* [ ] Delete Facebook and Google. Yes, this is obviously easier said than done. But Facebook and Google are the worst offenders against individual privacy. They vacuum personal data like a surveillance state. They are dishonest about hacks and data leaks.
+* [ ] Delete Facebook and Google. This is obviously easier said than done. But Facebook and Google are the worst offenders against individual privacy. They vacuum personal data like a surveillance state. They are dishonest about data leaks. And [Facebook's business model forces it to deliberately work against your best interests](https://blog.adilmajid.com/facebook-and-google/).
 
 <hr>
 
 # Other Stuff
 
 ## Be Good
-* [ ] Support companies that protect your data. By support, I mean pay for their services. If you don’t, they’ll go out of business, and all we’ll have left are free products that vacuum up all of the user data they can.
+* [ ] Support companies that protect your data. This can mean paying for their service, donating, or just spreading the word.
 * [ ] Follow the [Electronic Frontier Foundation](https://www.eff.org). And [donate](https://supporters.eff.org/donate/join-eff-today)! They do great work.
 
 ## Best Practices
 * [ ] Don’t use phone numbers for 2FA. See [SIM Swap Attack Protection](#sim-swap-attack-protection) below.
-* [ ] Do a regular security audit. Regularly passwords for your “key” accounts. Check for active logged-in sessions that you don’t recognize.
-* [ ] Make sure that any device or app you store sensitive info in is encrypted.  (Evernote, Day One, etc.) You can generally find out from their marketing site or FAQ, and if its not there, then contact their support team.
+* [ ] Do a regular security audit. Regularly change passwords for your most important accounts—email, banking, social media, etc. Check for active logged-in sessions that you don’t recognize.
+* [ ] Make sure that any device or app you store sensitive info in supports end-to-end encryption, or at least encryption at rest. You can generally find out from their marketing site or FAQ, and if its not there, then contact their support team.
 * [ ] Don't buy knockoff smart home appliances. This includes security cameras.
-* [ ] Get rid of your Amazon Alexa and Google Home. They are listening!
+* [ ] Get rid of your Amazon Alexa and Google Home. (Go to (Google MyActivity)[myactivity.google.com] for a good scare.)
 
 ## Google
+Google accounts store some of our most personal information—emails, photos, docs, location history. If you use Gmail for email, then your Google account is the portal through which other accounts can be compromised (if someone gets control of your Gmail, they can use "Forgot Password" on other sites and lock you out of everything). Securing it is high-leverage use of time.
 
 ### Secure Login
 * [ ] Set up 2FA
@@ -163,17 +162,18 @@ Unfortunately, that's near impossible, but you can do certain things to get clos
 * [ ] Review what apps have access to your data via Google login
 
 ### Reclaim Your Data
+Go to [Google MyActivity](myactivity.google.com) and...
 * [ ] Clear search history
 * [ ] Disable search history
 * [ ] Clear location history
 * [ ] Disable maps and location history
-* [ ] Check Google+ for what data Google has made public, set anything you don't like to private
 
 ### Beast Mode
 * [ ] Switch to [DuckDuckGo](https://duckduckgo.com) as your  main search engine. (You can set it as default for Brave, Safari, Chrome, Firefox, and iOS Safari now)
 * [ ] Switch to [Brave Browser](https://brave.com) as your browser instead of Chrome.
 
 ## Facebook
+Facebook may be the only account that is as valuable as your Google account. Below are some Facebook-specific features to help to lock it down.
 
 ### Secure Login
 * [ ] Set up 2FA
