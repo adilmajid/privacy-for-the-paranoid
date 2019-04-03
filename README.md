@@ -125,7 +125,7 @@ You have personal data in all of your accounts. Some of those accounts can broad
 
 ## Browse Securely
 * [ ] Use a browser plugin like [uBlock Origin](https://github.com/gorhill/uBlock), privacy badger, and ghostery to prevent third parties from tracking you
-* [ ] Install a VPN client on your computer. Check out [PCWorld's reviews of popular VPN clients](https://www.pcworld.com/article/3198369/privacy/best-vpn-services-apps-reviews-buying-advice.html). My favorite is [Mullvad](http://mullvad.net). They don't require any personal info, like name or email address, for registration, and you can pay in cash or crypto.
+* [ ] Install a VPN client on your computer. Check out [PCWorld's reviews of popular VPN clients](https://www.pcworld.com/article/3198369/privacy/best-vpn-services-apps-reviews-buying-advice.html). My favorite is [Mullvad](http://mullvad.net). They don't require any personal info to sign up (like your name or email address) and you can pay in cash or crypto, so they can't identify you via payment info either.
 * [ ] Install a VPN client on your phone ([Encrypt.me](https://encrypt.me) and [Tunnelbear](http://tunnelbear.com) are pretty good). I prefer Mullvad here as well.
 * [ ] Don't use unsecured wifi networks without a VPN
 * [ ] Use [Panopticlick](https://panopticlick.eff.org) to test whether your browser setup is safe against tracking
