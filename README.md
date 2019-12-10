@@ -92,7 +92,7 @@ Most people don't think about this one, but it matters. Leaving personal informa
 
 * [ ] Consolidate external hard drives and USB thumbdrives so you have fewer things to keep track of.
 * [ ] Consolidate notebooks and papers that could have sensitive info, shred the ones you don't need. Archive papers by scanning into (a secured) Evernote account if you don't need the physical copy.
-* [ ] Wipe unused old computers, phones, tablets, hard drives, etc.
+* [ ] Wipe and/or destroy unused old computers, phones, tablets, hard drives, etc.
 
 <hr>
 
