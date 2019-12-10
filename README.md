@@ -100,7 +100,7 @@ Most people don't think about this one, but it matters. Leaving personal informa
 You have personal data in all of your accounts. Some of those accounts can broadcast information to the internet on your behalf (think Instagram, Twitter, or a blog). If you aren’t using an account, delete it. They’re a vulnerability.
 
 * [ ] Delete accounts you no longer use.
-* [ ] Use [Have I Been Pwned](https://haveibeenpwned.com) to see if any of your accounts have been compromised
+* [ ] Use [Have I Been Pwned](https://haveibeenpwned.com) or [Firefox Monitor](https://monitor.firefox.com/) to see if any of your accounts have been compromised
 * [ ] Secure your Skype account, if you need it. Delete it if you don't need Skype. Skype is a top offender for getting hacked.
 * [ ] Delete your Yahoo account. If you need it for Flickr, set a long password, set up 2FA, and enable login notifications. Yahoo is another common offender
 
