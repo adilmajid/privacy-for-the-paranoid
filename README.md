@@ -115,9 +115,16 @@ You have personal data in all of your accounts. Some of those accounts can broad
 
 # Go Pro
 
+## Use Zero-Knowledge Products
+([What is zero-knowledge?](https://www.cloudwards.net/what-exactly-is-zero-knowledge-in-the-cloud-and-how-does-it-work/))
+* [ ] Use [Signal](http://signal.org) or [WhatsApp](https://whatsapp.com) for end-to-end encrypted messaging
+* [ ] Use [Sync.com](https://www.sync.com/) or [MEGA](https://mega.nz/) for end-to-end encrypted file storage
+* [ ] Use [Standard Notes](https://standardnotes.org/) for end-to-end encrypted note-taking
+* [ ] Use [Day One](https://dayoneapp.com/) for end-to-end encrypted journaling
+* [ ] Use [Keybase](https://keybase.io/) for end-to-end encrypted chat and file-sharing. Also good for publicly verifable online identity verification
+
 ## Use privacy-friendly services
 * [ ] Install [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) to monitor outgoing connections (basically a reverse Firewall). Your computer sends a lot of dat in the background that you might not know about. With Little Snitch you can see when and where information from your computer is being sent
-* [ ] Use [Signal](http://signal.org) or [WhatsApp](https://whatsapp.com) for end-to-end encrypted messaging
 * [ ] Use [ProtonMail](https://protonmail.com) for encrypted email
 * [ ] Use [DuckDuckGo](https://duckduckgo.com) as your search engine. They're great, they don't track you, and they're profitable, so no need to worry about them shutting down one day
 * [ ] Use [Tor](https://www.torproject.org) for web browsing. The more people use it the better the network is
