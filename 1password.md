@@ -8,7 +8,7 @@ This will be a pain to set up, but you will only have to do it once
 * Set up your account
 * Come up with a Master Password that is 30+ characters long. Ideally a sentence that is 5-6 words long with spaces. (A coherent sentence is easy for you to remember, but difficult to be brute-forced by a machine. Upper/lower case, numbers, and special characters do not matter.)
 * Download your Emergency Kit and print it. Write your Master Password on it
-* IMPORTANT: After printing your Emergency Kit, PUT IT SOMEWHERE SAFE!
+* IMPORTANT: After printing your Emergency Kit, put it somewhere safe
 * IMPORTANT: After printing your Emergency Kit, delete it from your computer, and empty your trash immediately.
 * Download the desktop app
 * Set up the Browser Extension for your browser: https://1password.com/downloads/
